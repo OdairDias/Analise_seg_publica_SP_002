@@ -54,6 +54,21 @@ Periodo onde mais ocorreram os crimes:
 
 ![image](https://user-images.githubusercontent.com/117185803/210434853-52eb0e92-3b89-4f5c-afe9-0237809598a7.png)
 
+Aqui estamos vendo quias os tipo de veículos foram mais roubados:
+
+![image](https://user-images.githubusercontent.com/117185803/210435146-0dc401fe-7d9d-4d27-9715-73e2605dec1b.png)
+
+Aqui estamos vendo os 20 veiculos que mais foram roubados ordenado do maior para o menor 
+
+![image](https://user-images.githubusercontent.com/117185803/210435413-41ea407b-587e-49fe-a132-17f0d82b4c66.png)
+
+Aqui estamos vendo as 20 cores de veiculos mais roubadas ordenando do maior para o menor:
+
+![image](https://user-images.githubusercontent.com/117185803/210435591-158aee19-8e02-49a1-8cae-3c218aaf9209.png)
+
+Por ultimo estamos vendo o ano dos veiculos roubados, ordenando do maior para o menor:
+
+![image](https://user-images.githubusercontent.com/117185803/210435829-bec59422-a902-4565-b51a-70570e9a19c8.png)
 
 
 
