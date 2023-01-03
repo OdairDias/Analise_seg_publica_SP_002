@@ -10,6 +10,7 @@ interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funcio
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/117185803/210433221-d907168c-6f88-4d89-8277-32239386b009.gif)
 
 ## Análise exploratória dos dados: 
+### Análise exploratória dados roubo de celulares:
 
 Top 10 cidades onde mais ocorreram roubo de celulares:
 
@@ -34,5 +35,25 @@ Marca de celulares mais roubadas:
 Quantidade de celulares roubadas e sua frequencia:
 
 ![image](https://user-images.githubusercontent.com/117185803/210434215-54f0f369-3441-42c9-a1e1-efe5d450b0f7.png)
+
+### Análise exploratória dados roubo de veículos:
+
+Top 10 cidades onde mais ocorreram roubo de veículos
+
+![image](https://user-images.githubusercontent.com/117185803/210434489-d1f7400f-1bcd-4048-b717-6324020d6e4b.png)
+
+top 10 bairro onde mais ocorreram roubo de veículos:
+
+![image](https://user-images.githubusercontent.com/117185803/210434665-ebbfc9f8-f338-4422-9039-9a19467390dd.png)
+
+Top 20 ruas onde mais ocorreram roubo de veículos:
+
+![image](https://user-images.githubusercontent.com/117185803/210434763-d4dc54e0-573c-4e24-a9a4-351999fb59a3.png)
+
+Periodo onde mais ocorreram os crimes:
+
+![image](https://user-images.githubusercontent.com/117185803/210434853-52eb0e92-3b89-4f5c-afe9-0237809598a7.png)
+
+
 
 
