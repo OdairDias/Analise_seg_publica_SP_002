@@ -1,8 +1,12 @@
-# Analise_seg_publica_SP_002
-Continuação projeto analise seg pública SP
+# Mapa roubo de celulares e veículos na região da grande SP outubro 2022
 
-Este projeto tem como objetivo fazer uma análise exploratória dos dados de roubo de celulares e Veículos
-durante o mês de novembro do ano 2022 nos municipios que compoem a chamada grande são paulo.
+Este projeto tem como objetivo desenvolver um mapa da criminalidade ligada a roubo de veículos e celulares na região chamada de grande São Paulo
+com os dados do mês de novembro do ano 2022. Em adição ao mapa, realizamos uma análise exploratória dos dados, o resultado será discutido a baixo.
+
+## Resultados: Aqui iremos discutir os resultados encontrados na análise exploratória, visto que o mapa da criminalidade foi construido a fim de que
+o usuário navegue por ele e econtre alguns insights. 
+pontos importantes roubo de celulares: 
+tivemos a maioria deste tipo de crime ocorrendo 
 
 Para melhor visualização, plotamos os dados em forma de mapa interativo, desta maneira é mais facil 
 interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funciona.
