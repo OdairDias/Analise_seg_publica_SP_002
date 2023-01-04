@@ -4,18 +4,23 @@ Este projeto tem como objetivo desenvolver um mapa da criminalidade ligada a rou
 com os dados do mês de novembro do ano 2022. Em adição ao mapa, realizamos uma análise exploratória dos dados, o resultado será discutido a baixo.
 
 ## Resultados: 
-Aqui iremos discutir os resultados encontrados na análise exploratória, visto que o mapa da criminalidade foi construido a fim de que
-o usuário navegue por ele e econtre alguns insights. 
+Aqui iremos discutir os resultados encontrados na análise exploratória, visto que o mapa da criminalidade foi construído a fim de que
+o usuário navegue por ele e encontre alguns insights. 
 
 Pontos importantes roubo de celulares: 
+
 as três principais cidades onde tivemos a maioria deste tipo de crime foram, 
-S.PAULO  com 13319 ocorrências, S.ANDRE com 757 e  S.BERNARDO DO CAMPO com 718 ocorrências, podemos perceber que a maior parte dos crimes ocorrem na capital, sendo o centro o bairro mais afetado com 503 ocorrências a RUA DEOLICIO ALVES DE SOUZA   foi onde mais tivemos recorrência de roubos, com 333 ocorrências. O período da NOITE tem sido o preferido para a pratica deste crime, com 10518 ocorrências, sendo que em 23883 ocorrência levaram apenas um aprelho, sendo a marca de celulares  Samsung a mais roubada, ela está presente em  8952 ocorrências.
+S. PAULO com 13319 ocorrências, S. ANDRE com 757 e S. BERNARDO DO CAMPO com 718 ocorrências, podemos perceber que a maior parte dos crimes ocorrem na capital, sendo o centro o bairro mais afetado com 503 ocorrências, a RUA DEOLICIO ALVES DE SOUZA   foi onde mais tivemos recorrência de roubos, com 333 ocorrências. O período da NOITE tem sido o preferido para a pratica deste crime, com 10518 ocorrências, sendo que em 23883 ocorrência levaram apenas um aparelho, sendo a marca de celulares Samsung a mais roubada, ela está presente em 8952 ocorrências.
 
 Roubo de veículos: 
 
-As três cidades ond emais ocorreram roubo de celulares foram S.PAULO 5837 ocorrências, S.BERNARDO DO CAMPO 671 ocorrências, e 
-S.ANDRE com 570 ocorrÊncias, sendo o CENTRO o bairor mais visado com 242 ocorrências, a RUA DEOLICIO ALVES DE SOUZA  foi onde a maioria dos crimes ocorreram com 111 ocorrencias, sendo o período da NOITE onde mais ocorram roubos de veíclos com  6029 ocorrências. Vamos um pouco mais a fundo e levantar alguns dados interessantes sobre os veículos roubados, as três principais categorias de veiculos roubados foram, AUTOMOVEL  objeto de roubo em 3844 ocorrencias,  MOTOCICLO em 3303 ocorrencias e 
-CAMINHONETE com 753 ocorrencias. Indo um pouco mais além temos também os três veiculos mais roubados na grande região de são paulo, em primeiro lugar, HONDA/CG 160 FAN roubada 236 vezes, seguida por HONDA/CG 160 TITAN roubada 139 vezes e por ultimo a  YAMAHA/FZ25 FAZER  roubada 118 vezes, segundo nossa analise veremos que os veiculos mais visados forma o de cor Branca sendo objeto de roubo em 2519 oportunidades, sendo os veiculos do ano 2021 o mais roubado com  964 ocorrencias.
+As três cidades onde mais ocorreram roubo de veículos foram, S. PAULO 5837 ocorrências, S. BERNARDO DO CAMPO 671 ocorrências, e S. ANDRE com 570 ocorrências, o CENTRO foi o bairro mais visado com 242 ocorrências, a RUA DEOLICIO ALVES DE SOUZA foi onde a maioria dos crimes ocorreram com 111 ocorrências, o período da NOITE foi onde mais ocorram roubos de veículos com 6029 ocorrências. Vamos um pouco mais a fundo e levantar alguns dados interessantes sobre os veículos roubados, as três principais categorias de veículos roubados foram, AUTOMOVEL roubado em 3844 vezes, MOTOCICLO  3303 vezes, e CAMINHONETE 753 vezes. Indo um pouco mais além temos também os três veículos mais roubados na grande região de são Paulo, em primeiro lugar, HONDA/CG 160 FAN roubada 236 vezes, seguida por HONDA/CG 160 TITAN roubada 139 vezes e por último a YAMAHA/FZ25 FAZER roubada 118 vezes, segundo nossa analise veremos que os veículos mais roubados foram os de cor Branca, roubados em 2519 oportunidades, sendo os veículos do ano 2021 o mais visados com 964 ocorrências. Sobre roubo de veículos cabe notar que veículos estão no topo da lista como mais roubados, porém quando entramos no detalhe, temos as motocicletas como as mais visadas sendo a HONDA/CG 160 FAN a mais roubada, interessante notar que é uma moto de baixa cilindrada usada principalmente no dia a dia e pra fazer entregas de aplicativos. 
+
+Resumo: 
+
+Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou caro roubado.
+
+
 
 Para melhor visualização, plotamos os dados em forma de mapa interativo, desta maneira é mais facil 
 interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funciona.
