@@ -21,6 +21,7 @@ Resumo:
 Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou caro roubado.
 
 
+A baixo temos as variveis explicadas a cima e um exemplo do mapa interativo que pode ser encontrado ao lado desta sessão:
 
 Para melhor visualização, plotamos os dados em forma de mapa interativo, desta maneira é mais facil 
 interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funciona.
