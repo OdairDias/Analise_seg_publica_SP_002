@@ -18,7 +18,7 @@ As três cidades onde mais ocorreram roubo de veículos foram, S. PAULO 5837 oco
 
 Resumo: 
 
-Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou caro roubado.
+Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou carro roubado.
 
 
 link para o mapa interativo: https://odairdias.github.io/mapa_criminalidade_sp/
