@@ -3,10 +3,13 @@
 Este projeto tem como objetivo desenvolver um mapa da criminalidade ligada a roubo de veículos e celulares na região chamada de grande São Paulo
 com os dados do mês de novembro do ano 2022. Em adição ao mapa, realizamos uma análise exploratória dos dados, o resultado será discutido a baixo.
 
-## Resultados: Aqui iremos discutir os resultados encontrados na análise exploratória, visto que o mapa da criminalidade foi construido a fim de que
+## Resultados: 
+Aqui iremos discutir os resultados encontrados na análise exploratória, visto que o mapa da criminalidade foi construido a fim de que
 o usuário navegue por ele e econtre alguns insights. 
-pontos importantes roubo de celulares: 
-tivemos a maioria deste tipo de crime ocorrendo 
+
+Pontos importantes roubo de celulares: 
+as três principais cidades onde tivemos a maioria deste tipo de crime foram, 
+S.PAULO  com 13319 ocorrências, S.ANDRE com 757 e  S.BERNARDO DO CAMPO com 718 ocorrências, podemos perceber que a maior parte dos crimes ocorrem na capital, sendo o centro o bairro mais afetado com 503 ocorrências a RUA DEOLICIO ALVES DE SOUZA   foi onde mais tivemos recorrência de roubos, com 333 ocorrências. O período da NOITE tem sido o preferido para a pratica deste crime, com 10518 ocorrências, sendo que em 23883 ocorrência levaram apenas um aprelho, sendo a marca de celulares  Samsung a mais roubada, ela está presente em  8952 ocorrências.
 
 Para melhor visualização, plotamos os dados em forma de mapa interativo, desta maneira é mais facil 
 interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funciona.
