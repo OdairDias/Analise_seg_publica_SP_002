@@ -12,15 +12,19 @@ Pontos importantes roubo de celulares:
 as três principais cidades onde tivemos a maioria deste tipo de crime foram, 
 S. PAULO com 13319 ocorrências, S. ANDRE com 757 e S. BERNARDO DO CAMPO com 718 ocorrências, podemos perceber que a maior parte dos crimes ocorrem na capital, sendo o centro o bairro mais afetado com 503 ocorrências, a RUA DEOLICIO ALVES DE SOUZA   foi onde mais tivemos recorrência de roubos, com 333 ocorrências. O período da NOITE tem sido o preferido para a pratica deste crime, com 10518 ocorrências, sendo que em 23883 ocorrência levaram apenas um aparelho, sendo a marca de celulares Samsung a mais roubada, ela está presente em 8952 ocorrências.
 
-Roubo de veículos: 
+Neste ponto vamos analisar a situação dos Roubos de veículos: 
 
 As três cidades onde mais ocorreram roubo de veículos foram, S. PAULO 5837 ocorrências, S. BERNARDO DO CAMPO 671 ocorrências, e S. ANDRE com 570 ocorrências, o CENTRO foi o bairro mais visado com 242 ocorrências, a RUA DEOLICIO ALVES DE SOUZA foi onde a maioria dos crimes ocorreram com 111 ocorrências, o período da NOITE foi onde mais ocorram roubos de veículos com 6029 ocorrências. Vamos um pouco mais a fundo e levantar alguns dados interessantes sobre os veículos roubados, as três principais categorias de veículos roubados foram, AUTOMOVEL roubado em 3844 vezes, MOTOCICLO  3303 vezes, e CAMINHONETE 753 vezes. Indo um pouco mais além temos também os três veículos mais roubados na grande região de são Paulo, em primeiro lugar, HONDA/CG 160 FAN roubada 236 vezes, seguida por HONDA/CG 160 TITAN roubada 139 vezes e por último a YAMAHA/FZ25 FAZER roubada 118 vezes, segundo nossa analise veremos que os veículos mais roubados foram os de cor Branca, roubados em 2519 oportunidades, sendo os veículos do ano 2021 o mais visados com 964 ocorrências. Sobre roubo de veículos cabe notar que veículos estão no topo da lista como mais roubados, porém quando entramos no detalhe, temos as motocicletas como as mais visadas sendo a HONDA/CG 160 FAN a mais roubada, interessante notar que é uma moto de baixa cilindrada usada principalmente no dia a dia e pra fazer entregas de aplicativos. 
 
 Resumo: 
 
-Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou caro roubado.
+Podemos perceber algumas coisas em comum entre os dois tipos de crime, primeiro a cidade onde mais ocorrem, em segundo lugar a rua onde ocorrem e em terceiro o período em que ocorrem. Podemos dizer que se você tiver com seu carro branco, ano 2021 e com seu celular Samsung no bolso, passeando a noite em são Paulo na rua DEOLICIO ALVES DE SOUZA aumenta e muito as chances de ter o celular ou carro roubado.
 
 
+link para o mapa interativo: https://odairdias.github.io/mapa_criminalidade_sp/
+
+
+A baixo temos as variveis explicadas a cima e um exemplo do funcionamento do mapa interativo: 
 
 Para melhor visualização, plotamos os dados em forma de mapa interativo, desta maneira é mais facil 
 interagir e visualizar os dados, a baixo segue uma amostra de como o mapa funciona.
@@ -84,9 +88,11 @@ Aqui estamos vendo as 20 cores de veiculos mais roubadas ordenando do maior para
 
 ![image](https://user-images.githubusercontent.com/117185803/210435591-158aee19-8e02-49a1-8cae-3c218aaf9209.png)
 
-Por ultimo estamos vendo o ano dos veiculos roubados, ordenando do maior para o menor:
+Por ultimo visualizando vendo o ano dos veiculos roubados, ordenando do maior para o menor:
 
 ![image](https://user-images.githubusercontent.com/117185803/210435829-bec59422-a902-4565-b51a-70570e9a19c8.png)
+
+
 
 
 
